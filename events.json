@@ -1,0 +1,387 @@
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 16:11:23",
+    "pid": 2812,
+    "parent_pid": 632,
+    "name": "svchost.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 16:11:24",
+    "pid": 4020,
+    "parent_pid": 768,
+    "name": "smartscreen.exe",
+    "path": "C:\\Windows\\System32\\smartscreen.exe",
+    "sha256": "3da437b642468eafab7cd1b9dcf2cdf838b44c63fd73dae8e3e4d06ec187c0f3"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 16:11:24",
+    "pid": 4796,
+    "parent_pid": 4152,
+    "name": "notepad.exe",
+    "path": "C:\\Windows\\System32\\notepad.exe",
+    "sha256": "da5807bb0997cc6b5132950ec87eda2b33b1ac4533cf1f7a22a6f3b576ed7c5b"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 16:11:34",
+    "pid": 4796,
+    "parent_pid": 4152,
+    "name": "notepad.exe",
+    "path": "C:\\Windows\\System32\\notepad.exe",
+    "sha256": "da5807bb0997cc6b5132950ec87eda2b33b1ac4533cf1f7a22a6f3b576ed7c5b"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:05:21",
+    "pid": 2576,
+    "parent_pid": 632,
+    "name": "sppsvc.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:05:22",
+    "pid": 4648,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:05:23",
+    "pid": 4648,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:05:50",
+    "pid": 964,
+    "parent_pid": 632,
+    "name": "svchost.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:05:51",
+    "pid": 1300,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:05:52",
+    "pid": 1300,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:05:58",
+    "pid": 1612,
+    "parent_pid": 4152,
+    "name": "notepad.exe",
+    "path": "C:\\Windows\\System32\\notepad.exe",
+    "sha256": "da5807bb0997cc6b5132950ec87eda2b33b1ac4533cf1f7a22a6f3b576ed7c5b"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:05:58",
+    "pid": 1844,
+    "parent_pid": 768,
+    "name": "smartscreen.exe",
+    "path": "C:\\Windows\\System32\\smartscreen.exe",
+    "sha256": "3da437b642468eafab7cd1b9dcf2cdf838b44c63fd73dae8e3e4d06ec187c0f3"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:05:58",
+    "pid": 4212,
+    "parent_pid": 2872,
+    "name": "SearchProtocolHost.exe",
+    "path": "C:\\Windows\\System32\\SearchProtocolHost.exe",
+    "sha256": "09b2571ebfadf5ce1429905e8f465c22dbfd5a2a3c3124a0c8ae0fb658bb6025"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:05:58",
+    "pid": 5184,
+    "parent_pid": 632,
+    "name": "svchost.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:05:59",
+    "pid": 5304,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "C:\\Program Files\\Sublime Text\\sublime_text.exe",
+    "sha256": "67d363dc7a54808624c1d0e4837ee5258974d338d1117738046a5a823ab4c16a"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:06:00",
+    "pid": 5304,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "C:\\Program Files\\Sublime Text\\sublime_text.exe",
+    "sha256": "67d363dc7a54808624c1d0e4837ee5258974d338d1117738046a5a823ab4c16a"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:06:32",
+    "pid": 5108,
+    "parent_pid": 2872,
+    "name": "SearchFilterHost.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:06:33",
+    "pid": 6312,
+    "parent_pid": 2872,
+    "name": "SearchFilterHost.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:07:14",
+    "pid": 2876,
+    "parent_pid": 768,
+    "name": "backgroundTaskHost.exe",
+    "path": "C:\\Windows\\System32\\backgroundTaskHost.exe",
+    "sha256": "7077cbf56490c86fc74c0cc6c0379ab679f06a066e71906ad23458f664836449"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:07:39",
+    "pid": 1612,
+    "parent_pid": 4152,
+    "name": "notepad.exe",
+    "path": "C:\\Windows\\System32\\notepad.exe",
+    "sha256": "da5807bb0997cc6b5132950ec87eda2b33b1ac4533cf1f7a22a6f3b576ed7c5b"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:07:44",
+    "pid": 6616,
+    "parent_pid": 768,
+    "name": "RuntimeBroker.exe",
+    "path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "sha256": "ea91cd0634c69789b68770311b4e892010fe9e37d16c15fd33c461a04cebe4e3"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:08:19",
+    "pid": 6864,
+    "parent_pid": 768,
+    "name": "backgroundTaskHost.exe",
+    "path": "C:\\Windows\\System32\\backgroundTaskHost.exe",
+    "sha256": "7077cbf56490c86fc74c0cc6c0379ab679f06a066e71906ad23458f664836449"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:08:19",
+    "pid": 1408,
+    "parent_pid": 768,
+    "name": "RuntimeBroker.exe",
+    "path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "sha256": "ea91cd0634c69789b68770311b4e892010fe9e37d16c15fd33c461a04cebe4e3"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:08:19",
+    "pid": 1916,
+    "parent_pid": 768,
+    "name": "BackgroundTransferHost.exe",
+    "path": "UNKNOWN",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:08:19",
+    "pid": 7080,
+    "parent_pid": 768,
+    "name": "RuntimeBroker.exe",
+    "path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "sha256": "ea91cd0634c69789b68770311b4e892010fe9e37d16c15fd33c461a04cebe4e3"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:08:20",
+    "pid": 1916,
+    "parent_pid": 768,
+    "name": "BackgroundTransferHost.exe",
+    "path": "UNKNOWN",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:08:21",
+    "pid": 492,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:08:22",
+    "pid": 492,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:08:22",
+    "pid": 652,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:08:23",
+    "pid": 652,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:08:24",
+    "pid": 4676,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:08:24",
+    "pid": 4676,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 17:08:25",
+    "pid": 6512,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 17:08:25",
+    "pid": 6512,
+    "parent_pid": 3684,
+    "name": "sublime_text.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 18:11:02",
+    "pid": 5824,
+    "parent_pid": 632,
+    "name": "svchost.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 18:11:13",
+    "pid": 492,
+    "parent_pid": 768,
+    "name": "smartscreen.exe",
+    "path": "C:\\Windows\\System32\\smartscreen.exe",
+    "sha256": "3da437b642468eafab7cd1b9dcf2cdf838b44c63fd73dae8e3e4d06ec187c0f3"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 18:11:13",
+    "pid": 1140,
+    "parent_pid": 4152,
+    "name": "powershell.exe",
+    "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "sha256": "9785001b0dcf755eddb8af294a373c0b87b2498660f724e76c4d53f9c217c7a3"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 18:11:13",
+    "pid": 4420,
+    "parent_pid": 1140,
+    "name": "conhost.exe",
+    "path": "C:\\Windows\\System32\\conhost.exe",
+    "sha256": "b02ee54fb2ec69673386d41119ee8ed083a6eab3bfca6aa2155d20ce68ef8963"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 18:13:19",
+    "pid": 1140,
+    "parent_pid": 4152,
+    "name": "powershell.exe",
+    "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "sha256": "9785001b0dcf755eddb8af294a373c0b87b2498660f724e76c4d53f9c217c7a3"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 18:13:19",
+    "pid": 4420,
+    "parent_pid": 1140,
+    "name": "conhost.exe",
+    "path": "C:\\Windows\\System32\\conhost.exe",
+    "sha256": "b02ee54fb2ec69673386d41119ee8ed083a6eab3bfca6aa2155d20ce68ef8963"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 18:13:20",
+    "pid": 6936,
+    "parent_pid": 2872,
+    "name": "SearchFilterHost.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_CREATED",
+    "timestamp": "2026-10-07 18:13:22",
+    "pid": 6308,
+    "parent_pid": 2872,
+    "name": "SearchFilterHost.exe",
+    "path": "ACCESS DENIED",
+    "sha256": "NOT_AVAILABLE"
+}
+{
+    "event": "PROCESS_TERMINATED",
+    "timestamp": "2026-10-07 18:15:49",
+    "pid": 7136,
+    "parent_pid": 768,
+    "name": "backgroundTaskHost.exe",
+    "path": "C:\\Windows\\System32\\backgroundTaskHost.exe",
+    "sha256": "7077cbf56490c86fc74c0cc6c0379ab679f06a066e71906ad23458f664836449"
+}
