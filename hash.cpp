@@ -1,4 +1,4 @@
-#include "hash.h"
+#include "heder/hash.h"
 
 #include <windows.h>
 #include <wincrypt.h>
